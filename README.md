@@ -51,7 +51,7 @@ phphelp/
    ```
 
 ## Contribuições 🤝
-Se quiser contribuir, fique à vontade para abrir um Pull Request ou sugerir melhorias via Issues.
+Se quiser contribuir e fazer parte deste repositório, fique à vontade para abrir um Pull Request ou sugerir melhorias via Issues. 
 
 ## Licença 📜
 Este projeto está licenciado sob a **MIT License**. Sinta-se livre para usá-lo e modificá-lo!
