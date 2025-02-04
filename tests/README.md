@@ -9,10 +9,11 @@ Esta pasta é responsavel por realizar os testes dos scripts que eu fiz e que vo
 - **back-end/**: Está pasta aloca os scripts back-end, como db.php, logout.php e etc.
 
 ## Estrutura da pasta é a seguinte 📁:
-env
+```tests
+tests
 ├── back-end/        # Pasta que contém os arquivos back-end
 ├── front-end/       # pasta que contém os arquivos front-end
-
+```
 ## Contribuição 🤝
 
 Se você deseja contribuir para este projeto, basta fazer um fork, criar uma branch com suas mudanças e enviar um pull request.
