@@ -1,0 +1,42 @@
+# Git inicial
+git init
+
+# COMANDOS GITHUBS:
+#or create a new repository on the command line
+echo "# jikhujgfdxcgvhbjn-km." >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kazuha4-sys/jikhujgfdxcgvhbjn-km..git
+git push -u origin main
+# or push an existing repository from the command line
+git remote add origin https://github.com/kazuha4-sys/jikhujgfdxcgvhbjn-km..git
+git branch -M main
+git push -u origin main
+
+# Gerencimanto de commits 
+git status 
+git add nome_arquivo
+git add . 
+git commit -m "Messagem do commit"
+git commit --amend 
+
+# Sincronizando com Repositorio Remoto 
+git remote add origin URL_DO_REPO
+git remote -v
+git push origin main 
+git fetch 
+git pull origin main 
+git push --force 
+
+# Trabalhar com BRANCHs
+git branch nome_branch 
+git branch 
+git checkout nome_branch
+
+git checkout -b nome-branch 
+git merge nome_branch 
+git branch -d nome_branch 
+git push origin --delete nome_branch 
+

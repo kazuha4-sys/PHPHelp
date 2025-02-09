@@ -7,7 +7,7 @@ Esta pasta contém dois arquivos principais:
 
 ## Estrutura da pasta é a seguinte 📁:
 env
-├── .env        # Arquivo de configuração com tokens e haves do seu ambiente
+├── .env                # Arquivo de configuração com tokens e haves do seu ambiente
 ├── autoload.php        # Arquivo para autoload de dependencias
 
 ## Como usar 
