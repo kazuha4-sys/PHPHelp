@@ -1,5 +1,9 @@
 # PHPHelp - Repositório Completo para Desenvolvimento PHP Web 🚀
 
+> Deenvolvido por Kazuha4-sys
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![License](https://img.shields.io/badge/license-MIT-blue)
+
 ## Sobre o Projeto
 O **PHPHelp** é um framework completo para ajudar no desenvolvimento de aplicações PHP Web de forma segura e eficiente. Ele inclui um sistema modular que cobre desde autenticação até segurança avançada contra ataques cibernéticos ou pagamentos online.
 
