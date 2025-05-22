@@ -1,5 +1,20 @@
 {
-    "require": {
-        "mercadopago/dx-php": "^3.0"
+  "name": "dedsec/phphelp",
+  "description": "Uma biblioteca de códigos já prontos, para te ajduar a programar em php de uma forma mas rapido e eficiente",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kazuha4-sys",
+      "email": "teu@email.com"
     }
+  ],
+  "require": {
+    "mercadopago/dx-php": "^3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "PHPHelp\\": "src/"
+    }
+  }
 }
