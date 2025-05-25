@@ -1,0 +1,17 @@
+* export-ignore 
+
+!src/**
+!config/**
+!modules/**
+!chat/**
+!public/**
+!test/**
+!securoty/**
+!vendor/**
+!register_login/**
+!git/**
+!sql/**
+!modules/**
+!router/**
+!public/**
+!env/**

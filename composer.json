@@ -6,7 +6,13 @@
   "authors": [
     {
       "name": "Kazuha4-sys",
-      "email": "teu@email.com"
+      "email": "cleuzadasilvadossantos@email.com"
+    }
+  ],
+  "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/kazuha4-sys/PHPHelp.git"
     }
   ],
   "require": {
@@ -15,6 +21,6 @@
   "autoload": {
     "psr-4": {
       "PHPHelp\\": "src/"
-    }
+    }  
   }
 }
